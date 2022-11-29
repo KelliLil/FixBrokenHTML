@@ -1,3 +1,10 @@
 main {
     background-color: peachpuff;
 }
+
+h2 {
+    display: flex;
+    font-size: 3em;
+    justify-content: center;
+    align-items: center;
+}
