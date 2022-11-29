@@ -16,12 +16,12 @@
       <input type="email" id="email" name="email">
 
 
-      <label >Password</label>
-      <input type="password" required>
+      <label for="pass">Password (8 characters minimum</label>
+      <input type="password" id="pass" name="password"/>
 
 
       <label for="passwordConfirmation">Password Confirmation</label>
-      <input type="password" id="passwordConfirmation" required>
+      <input type="password" id="passwordConfirmation" name="passwordConfirmation">
 
 
       <button>Register</button>
